@@ -1,24 +1,26 @@
 {
-    "name":"",
-    "cvTitle":"",
-    "cvDescription":"",
+    "name":"Mercedes Avendaño",
+    "cvTitle":"FrontEnd Developer",
+    "cvDescription":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis, fugiat! Quas modi obcaecati unde commodi minima quod quidem! Eligendi exercitationem est mollitia eos. Est, ea minima! Voluptate repudiandae nostrum nulla!   ",
     "social":[
-        {"name":"", "link":""}
+        {"name":"LinkedIn", "link":"https://www.linkedin.com/in/mercedesaven/"},
+        {"name":"GitHub", "link":"https://github.com/mercedesaven"}
     ],
     "education":[
-        {"title":"", "institution":"", "endYear":"", "description":""},
-        {"title":"", "institution":"", "endYear":"", "description":""}
+        {"title":"FrontEnd Developer", "institution":"Ada ITW", "endYear":"2019", "description":"Front End Developer"},
+        {"title":"Licenciada en Marketing", "institution":"UCES", "endYear":"2010", "description":"Licenciatura en Marketing"}
     ],
     "skills":[
-        {"title":"", "level":""},
-        {"title":"", "level":""}
+        {"title":"HTML", "level":"Advanced"},
+        {"title":"CSS", "level":"Advanced"},
+        {"title":"JavaScript", "level":"Learning"}
     ],
     "blog":[
-        {"title":"", "sutitle":"", "excerpt":"", "text":"", "images":""},
-        {"title":"", "sutitle":"", "excerpt":"", "text":"", "images":""}
+        {"title":"Lorem ipsum dolor sit amet", "sutitle":"Lorem ipsum dolor sit amet", "excerpt":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis, fugiat! Quas modi obcaecati unde commodi minima quod quidem! Eligendi exercitationem est mollitia eos. Est, ea minima! Voluptate repudiandae nostrum nulla!", "text":"Lorem ipsum dolor sit amet", "images":"Lorem ipsum dolor sit amet"},
+        {"title":"Lorem ipsum dolor sit amet", "sutitle":"Lorem ipsum dolor sit amet", "excerpt":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis, fugiat! Quas modi obcaecati unde commodi minima quod quidem! Eligendi exercitationem est mollitia eos. Est, ea minima! Voluptate repudiandae nostrum nulla!", "text":"Lorem ipsum dolor sit amet", "images":"Lorem ipsum dolor sit amet"}
     ],
     "contact":{
-        "phone":"",
-        "email":""
+        "phone":"111111111",
+        "email":"lorem@lorem.com"
     }
 }
